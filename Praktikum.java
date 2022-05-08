@@ -1,3 +1,4 @@
-public static main() {
-    System.out.println("Hello");
+class Praktikum {
+    public static void main(String[] args) {
+    }
 }
